@@ -22,18 +22,186 @@
     }
   ],
   
-   "Products":[
+   "Furniture":[
     {
       "id": 1,
-      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-      "price": 120,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "bags",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
+      "title": "Woodsworth from Pepperfry",
+      "price": "₹30,499",
+      "description": "Alisia Fabric 2 Seater Sofa In Navy Blue Colour",
+      "category": "Sofas",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/a/l/494x544/alisia-2-seater-sofa-in-navy-blue-colour-by-woodsworth-alisia-2-seater-sofa-in-navy-blue-colour-by-w-chfdzq.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 2,
+      "title": "Casacraft from Pepperfry",
+      "price": "₹69,499",
+      "description": "Bario Leatherette 2 Seater Sofa In Cranberry Colour",
+      "category": "Sofas",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/b/a/494x544/bario-2-seater-sofa-in-cranberry-leatherette-by-casacraft-bario-2-seater-sofa-in-cranberry-leatheret-q0lyrh.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 3,
+      "title": "ARRA",
+      "price": "₹22,899",
+      "description": "Kobe Double Futon in Spruce Blue Colour with Mattress",
+      "category": "Futons",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/k/o/494x544/kobe-double-futon-sofa-cum-bed-with-mattress-in-spruce-blue-colour-by-arra-kobe-double-futon-sofa-cu-gc7exs.jpg",
+      "rating":  5
+    },
+    {
+      "id": 4,
+      "title": "Auspicious Home",
+      "price": "₹26,658",
+      "description": "Rille Fabric Futon in Brown Colour",
+      "category": "Futons",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/r/i/494x544/rille-laminate--double-futon-black-with-mattress-two--pillow-chocolate-color--rille-laminate--double-uaxufa.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 5,
+      "title": "Sattva",
+      "price": "₹3,199",
+      "description": "Combo Muddha Leatherette Bean Bag with Beans in Pink Piping & Black Colour with Pouffe",
+      "category": "Bean Bags",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/m/u/494x544/muddha-xxxl-bean-bag-with-round-pouffe-by-sattva-muddha-xxxl-bean-bag-with-round-pouffe-by-sattva-y20brs.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 6,
+      "title": "VPlanet",
+      "price": "₹4,084",
+      "description": "Cotton XXXL Fabric Bean Bag with Beans in Ivory & Black Colour with Pouffe",
+      "category": "Bean Bags",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/c/o/494x544/cotton-printed-xxxl-bean-bag---round-pouffe-with-beans-in-ivory-and-black-colour-by-vplanet-cotton-p-zeketz.jpg",
+      "rating":  5
+    },
+    {
+      "id": 7,
+      "title": "Casacraft from Pepperfry",
+      "price": "₹43,499",
+      "description": "Vintter Leatherette 1 Seater Motorized Recliner in Black & Brown Colour",
+      "category": "Recliners",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/v/i/494x544/vintter-1-seater-leatherette-motorized-recliner-in-black---brown-colour-by-casacraft-vintter-1-seate-nqlrdl.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 8,
+      "title": "Recliners India",
+      "price": "₹23,450",
+      "description": "Magna Leatherette Manual 1 Seater Recliner in Dark Brown Colour",
+      "category": "Recliners",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/magna-1-seater-recliner-in-dark-brown-colour-by-recliners-india-magna-1-seater-recliner-in-dark-brow-bjvapt.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 9,
+      "title": "Amberville from Pepperfry",
+      "price": "₹24,499",
+      "description": "Alpana Fabric Recamier in Provincial Teak Finish",
+      "category": "Settees & Benches",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/a/l/494x544/alpana-solid-wood-recamier-in-provincial-teak-finish---mudramark-by-pepperfry-alpana-solid-wood-reca-fczw3a.jpg",
+      "rating":  5
+    },
+    {
+      "id": 10,
+      "title": "Woodsworth from Pepperfry",
+      "price": "₹12,499",
+      "description": "Wertle Sheesham Wood Bench In Rustic Teak Finish",
+      "category": "Settees & Benches",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/w/e/494x544/wertle-sheesham-wood-bench-in-rustic-teak-finish-wertle-sheesham-wood-bench-in-rustic-teak-finish-ccmryq.jpg",
+      "rating":  5
+    },
+    {
+      "id": 11,
+      "title": "ARRA",
+      "price": "₹5,499",
+      "description": "Parker Fabric Ottoman in Beige Colour",
+      "category": "Ottomans",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/p/a/494x544/parker-fabric-ottoman-in-beige-colour-by-arra-parker-fabric-ottoman-in-beige-colour-by-arra-pkecak.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 12,
+      "title": "Febonic",
+      "price": "₹9,099",
+      "description": "Mubila Fabric Ottoman in Sea Green Colour",
+      "category": "Ottomans",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/m/u/494x544/mubila-storage-ottoman-in-green-by-febonic-mubila-storage-ottoman-in-green-by-febonic-prsbro.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 13,
+      "title": "Woodsworth from Pepperfry",
+      "price": "₹49,499",
+      "description": "Zurndorf Sheesham Wood King Size Bed In Honey Oak Finish With Box Storage",
+      "category": "Beds with Box Storage",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/z/y/494x544/zyva-king-size-bed-with-box-storage-in-honey-oak-finish-by-woodsworth-zyva-king-size-bed-with-box-st-kt16en.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 14,
+      "title": "Crystal Furnitech",
+      "price": "₹38,699",
+      "description": "Quadra King Size Bed in Wenge Finish with Box Storage",
+      "category": "Beds with Box Storage",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/k/i/494x544/king-size-top-storage-bed--in-wenge-finish-by-crystal-furnitech-king-size-top-storage-bed--in-wenge--9zhc7s.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 15,
+      "title": "Mintwud from Pepperfry",
+      "price": "₹13,499",
+      "description": "Alpine Book Shelf in Walnut Finish",
+      "category": "Modern Book Shelves",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/a/l/494x544/alpine-book-shelves-in-walnut-finish-by-mintwud-alpine-book-shelves-in-walnut-finish-by-mintwud-fch6zv.jpg",
+      "rating":  5
+    },
+    {
+      "id": 16,
+      "title": "Crystal Furnitech",
+      "price": "₹5,949",
+      "description": "Resme Book Shelf in Brown & Black Finish",
+      "category": "Modern Book Shelves",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/w/a/494x544/wall-attached-book-shelf-in-multicolor-by-crystal-furnitech-wall-attached-book-shelf-in-multicolor-b-ukuyct.jpg",
+      "rating":  5
+    },
+    {
+      "id": 17,
+      "title": "GLOBIA CREATIONS",
+      "price": "₹15,899",
+      "description": "Booner TV Console for TVs in Natual Teak Finish for TVs up to 55",
+      "category": "Modern TV Consoles",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/b/o/494x544/booner-tv-console-for-tvs-upto-55-inch-in-natual-teak-colour-by-a-globia-creations-booner-tv-console-uwb7ea.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 18,
+      "title": "Spacewood",
+      "price": "₹22,999",
+      "description": "Galaxy TV Console for TVs in Walnut Bronze Melamine Finish for TVs up to 43",
+      "category": "Modern TV Consoles",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/g/a/494x544/galaxy-tv-console-for-tvs-up-to-43--in-walnut-bronze-melamine-finish-by-spacewood-galaxy-tv-console--zeqj7g.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 19,
+      "title": "Durian",
+      "price": "₹1,98,400",
+      "description": "Siberian Marble 8 Seater Dining Set in White Finish",
+      "category": "Marble & Glass Top Dining Sets",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/s/i/494x544/siberian-marble-top-eight-seater-dining-set-by-durian-siberian-marble-top-eight-seater-dining-set-by-qhwzqn.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 20,
+      "title": "ESTRE",
+      "price": "₹89,990",
+      "description": "Anemone Solid Wood 6 Seater Dining Set in Walnut Finish",
+      "category": "Marble & Glass Top Dining Sets",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/a/n/494x544/anemone-solid-wood-6-seater-dining-set-in-walnut-finish-anemone-solid-wood-6-seater-dining-set-in-wa-jin8ow.jpg",
+      "rating":  5
     }
   ]
 }
