@@ -331,6 +331,188 @@
       "image": "https://ii3.pepperfry.com/media/catalog/product/t/e/494x544/terry-cotton-single-72x36-water-resistant-mattress-protector-by-hosta-homes-terry-cotton-single-72x3-bw3v8p.jpg",
       "rating":  4.5
     }
+  ],
+  "Home Decor":[
+    {
+      "id": 1,
+      "title": "Tayhaa",
+      "price": "₹5,083",
+      "description": "Set Of 2 Blue Cylindrical Glass Vase",
+      "category": "Vases",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/s/e/494x544/set-of-2-blue-cylindrical-glass-vase-by-tayhaa-set-of-2-blue-cylindrical-glass-vase-by-tayhaa-wwpcq2.jpg",
+      "rating":  4
+    },
+    {
+      "id": 2,
+      "title": " Purezento",
+      "price": "₹1,799",
+      "description": "White Ceramic Vilaro Table Vases",
+      "category": "Vases",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/w/h/494x544/white-ceramic-table-vases-by-purezento-white-ceramic-table-vases-by-purezento-bakd9v.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 3,
+      "title": " Art Street",
+      "price": "₹1,419",
+      "description": "Black Solid Wood Wade Set Of 14 Collage Photo Frames",
+      "category": "Photo Frames",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/b/l/494x544/black-synthetic-wood-beautiful-family-memories-set-of-14-individual-wall-photo-frame--66x8--64x6--28-x9gcor.jpg",
+      "rating":  4
+    },
+    {
+      "id": 4,
+      "title": "Random",
+      "price": "₹809",
+      "description": "Black Solid Wood Set Of 8 With 3 Plaque Collage Photo Frames",
+      "category": "Photo Frames",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/b/l/494x544/black-synthetic-wood-set-of-08-photo-frames-with-3-mdf-plaque-by-random-black-synthetic-wood-set-of--zxuba5.jpg",
+      "rating":  4
+    },
+    {
+      "id": 5,
+      "title": "Shilpi",
+      "price": "₹16,857",
+      "description": "Solid Wood Ivan Room Divider In Brown Colour",
+      "category": "Screens & Dividers",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/s/h/494x544/shilpi-brown-wooden-partition-screen-room-divider-in-4-panel-shilpi-brown-wooden-partition-screen-ro-5bjm7s.jpg",
+      "rating":  3.5
+    },
+    {
+      "id": 6,
+      "title": "JILDA",
+      "price": "₹3,114",
+      "description": "Plexi Glass Hanging Room Divider In Brown Colour",
+      "category": "Screens & Dividers",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/j/i/494x544/jilda-brown-plexi-glass-designer-screen-dividers-jilda-brown-plexi-glass-designer-screen-dividers-npqcmr.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 7,
+      "title": "Malik Design",
+      "price": "₹1,129",
+      "description": "Metal Antique Gold & Blue Table Clock",
+      "category": "Table Organizers",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/m/e/494x544/metal-antique-gold---blue-wall-art-by-malik-design-metal-antique-gold---blue-wall-art-by-malik-desig-oropln.jpg",
+      "rating":  4
+    },
+    {
+      "id": 8,
+      "title": "Padmavati Art Creations",
+      "price": "₹1,311",
+      "description": "Metal Multicolour Bike Pen & Card Stand",
+      "category": "Table Organizers",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/m/e/494x544/metal-multicolour-bike-pen---card-stand-by-padmavati-art-creations-metal-multicolour-bike-pen---card-tt2y75.jpg",
+      "rating":  3.5
+    },
+    {
+      "id": 9,
+      "title": "Kookee",
+      "price": "₹1,295",
+      "description": "Modern Grey Ceramic Set of 3 Bath Accessories Set",
+      "category": "Home Utility",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/m/o/494x544/modern-grey-ceramic-set-of-3-bath-accessories-set-by-kookee-modern-grey-ceramic-set-of-3-bath-access-fiobtb.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 10,
+      "title": "Doyours",
+      "price": "₹2,619",
+      "description": "Stainless Steel Silver Wall Mounted Bathroom Fixture Set of 4",
+      "category": "Home Utility",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/d/o/494x544/doyours-glossy-stainless-steel-4-piece-bathroom-fixture-set-doyours-glossy-stainless-steel-4-piece-b-90oj7f.jpg",
+      "rating":  4
+    },
+    {
+      "id": 11,
+      "title": "The Advitya",
+      "price": "₹9,164",
+      "description": "Brass Urli With Bells",
+      "category": "Prayer Essentials",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/b/r/494x544/brass-urli-with-bells-by-the-advitya-brass-urli-with-bells-by-the-advitya-pqmkw8.jpg",
+      "rating":  4
+    },
+    {
+      "id": 12,
+      "title": "Craft Tree",
+      "price": "₹380",
+      "description": "Black & Orange Iron Ganesha Diya Stand",
+      "category": "Prayer Essentials",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/m/e/494x544/metal-ganesha-diya-stand-by-craft-tree-metal-ganesha-diya-stand-by-craft-tree-0sskvx.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 13,
+      "title": "Hosley",
+      "price": "₹539",
+      "description": "Multi Fragranced Aroma Set of 6 Scented Candles",
+      "category": "Candles",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/h/o/494x544/hosley-set-6-multicolor-highly-multi-fragranced-glass-candle-for-decoration--festive-hosley-set-6-mu-q6h3gr.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 14,
+      "title": "Xergy",
+      "price": "₹1,903",
+      "description": "White Led Ryan (Set Of 3) Decorative Candle",
+      "category": "Candles",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/w/h/494x544/white-led-decorative-candles--set-of-3--by-xergy-white-led-decorative-candles--set-of-3--by-xergy-xooyrw.jpg",
+      "rating":  5
+    },
+    {
+      "id": 15,
+      "title": "DZYN Furnitures",
+      "price": "₹32,990",
+      "description": "Teak Wood Kutustha Large Mandir With Storage",
+      "category": "Spiritual",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/t/e/494x544/teak-wood-mandir-in-golden-by-dzyn-furnitures-teak-wood-mandir-in-golden-by-dzyn-furnitures-h3z3xu.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 16,
+      "title": "Aapno Rajasthan",
+      "price": "₹6,264",
+      "description": "Resting Ganesha Brass Showpiece",
+      "category": "Spiritual",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/r/e/494x544/resting-ganesha-brass-showpiece-by-aapno-rajasthan-resting-ganesha-brass-showpiece-by-aapno-rajastha-lbjfz1.jpg",
+      "rating":  3.5
+    },
+    {
+      "id": 17,
+      "title": "Sehaz Artworks",
+      "price": "₹299",
+      "description": "Brown Welcome Home Wooden 7 Hooks Key Holder",
+      "category": "Key Holders",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/b/r/494x544/brown-welcome-home-wooden-7-hooks-key-holder-by-sehaz-artworks-brown-welcome-home-wooden-7-hooks-key-1tanxz.jpg",
+      "rating":  4
+    },
+    {
+      "id": 18,
+      "title": "Aakriti art creations",
+      "price": "₹1,082",
+      "description": "Wooden Tribal Art Leaf Key Holder",
+      "category": "Key Holders",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/w/o/494x544/wooden-tribal-art-leaf-key-holder-by-aakriti-art-creations-wooden-tribal-art-leaf-key-holder-by-aakr-thujdy.jpg",
+      "rating":  3.5
+    },
+    {
+      "id": 19,
+      "title": "Flair Glass",
+      "price": "₹3,289",
+      "description": "Round Bevelled Mirror Frameless (24Inch Dia)",
+      "category": "Mirrors",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/r/o/494x544/round-bevelled-mirror-frameless--24inch-dia--by-flair-glass-round-bevelled-mirror-frameless--24inch--2sx4lq.jpg",
+      "rating":  4
+    },
+    {
+      "id": 20,
+      "title": "Aakriti art creations",
+      "price": "₹19,591",
+      "description": "Walnut Teak Wood Knack Wall Mirror",
+      "category": "Mirrors",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/t/e/494x544/teak-wood-wall-mirror-with-beautifully-carved-wall-console-in--walnut-color-by-aakriti-art-creations-akmdew.jpg",
+      "rating":  4.5
+    }
   ]
 }
 
