@@ -203,6 +203,134 @@
       "image": "https://ii1.pepperfry.com/media/catalog/product/a/n/494x544/anemone-solid-wood-6-seater-dining-set-in-walnut-finish-anemone-solid-wood-6-seater-dining-set-in-wa-jin8ow.jpg",
       "rating":  5
     }
+  ],
+  "Mattresses":[
+    {
+      "id": 1,
+      "title": "Springtek",
+      "price": "₹21,406",
+      "description": "Hybrid 6 inch Pocket Spring King Size Mattress",
+      "category": "King Size",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/h/y/494x544/hybrid-pocket-spring---natural-latex-6-inch-king-size-mattress-by-springtek-hybrid-pocket-spring---n-8ht7wl.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 2,
+      "title": "GetRest",
+      "price": "₹31,461",
+      "description": "ProAdapt 8 inch with Organic Latex Patent-Pending MultiZone Support King Size Mattress",
+      "category": "King Size",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/p/r/494x544/proadapt-8-inch-latex-king-size-mattress-by-getrest-proadapt-8-inch-latex-king-size-mattress-by-getr-jgxuk0.jpg",
+      "rating":  5
+    },
+    {
+      "id": 3,
+      "title": "Sleepyhead",
+      "price": "₹11,999",
+      "description": "Sense BodyIQ 6 inch Memory Foam Queen Size Mattress",
+      "category": "Queen Size",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/s/e/494x544/sense-3-zoned-orthopedic-6-inch-queen-size-cooling-foam-mattress-in-white-colour-by-sleepyhead-sense-idlvld.jpg",
+      "rating":  4
+    },
+    {
+      "id": 4,
+      "title": "Sleep Seven",
+      "price": "₹4,599",
+      "description": "Supra Orthopedic 4 inch Foam Queen Size Mattress",
+      "category": "Queen Size",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/s/u/494x544/supra-reversible-foam-4-inch-queen-size-mattress-by-i-sleep-seven-supra-reversible-foam-4-inch-queen-v01vdl.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 5,
+      "title": "Comforto",
+      "price": "₹5,099",
+      "description": "Siesta Orthopedic 4 inch PU Foam Single Mattress",
+      "category": "Single",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/s/i/494x544/siesta-orthopaedic-dual-pu-foam-4-inch-single-mattress-by-comforto-siesta-orthopaedic-dual-pu-foam-4-qjnogo.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 6,
+      "title": "Clouddio",
+      "price": "₹10,299",
+      "description": "Nor Dual Comfort 6 inch Memory Foam Single Mattress in Grey Colour",
+      "category": "Single",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/n/o/494x544/nor-orthopedic-6-inches-memory---hr-foam-single-size-mattress-by-clouddio-nor-orthopedic-6-inches-me-rd811g.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 7,
+      "title": "Springtek",
+      "price": "₹5,459",
+      "description": "Travelite Tri-Fold 4 Inch Foam (72x48) In Grey Colour Queen Folding Mattress",
+      "category": "Foldable",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/f/o/494x544/folding-mattress-72x48x4--inches-single-size-foam-mattress-by-springtek-folding-mattress-72x48x4--in-jjkt1k.jpg",
+      "rating":  4
+    },
+    {
+      "id": 8,
+      "title": "Fresh Up",
+      "price": "₹9,549",
+      "description": "Ace 14 Inch Foam (78x36) In Blue Colour Single Size Sofa Cum Foldable Mattress",
+      "category": "Foldable",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/h/d/494x544/hd-foam-3-seater-single-size-14-inch-sofa-cum-foldable-mattress-hd-foam-3-seater-single-size-14-inch-m14w80.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 9,
+      "title": "Sleepsia",
+      "price": "₹910",
+      "description": "Orthopedic Cool Gel Memory Foam 21 x 14 Inch Pillow",
+      "category": "Pillows",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/o/r/494x544/orthopedic-cervical-cool-gel-infused-memory-foam-pillow--pack-of-1---by-sleepsia-orthopedic-cervical-vqpaej.jpg",
+      "rating":  4
+    },
+    {
+      "id": 10,
+      "title": "SleepyCat",
+      "price": "₹3,679",
+      "description": "Hybrid Microfiber 30 x 18 Inch Pillows (Set of 2)",
+      "category": "Pillows",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/h/y/494x544/hybrid-microfiber-30-x-18-inch--set-of-2--pillow-by-sleepycat-hybrid-microfiber-30-x-18-inch--set-of-edgbgp.jpg",
+      "rating":  4
+    },
+    {
+      "id": 11,
+      "title": " UrbanBed",
+      "price": "₹2,099",
+      "description": "Hr Foam Bed Wedge (22X22) In Big Size",
+      "category": "Bed Wedges",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/h/r/494x544/hr-foam-large-size-dual-wedge-pillow-with-removable-cover-by-urbanbed-hr-foam-large-size-dual-wedge--9awjyb.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 12,
+      "title": " The White Willow",
+      "price": "₹1,589",
+      "description": "Orthopedic Foam Black Bed Wedge (17X14) In Small Size",
+      "category": "Bed Wedges",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/b/l/494x544/black-orthopedic-memory-foam-soft-inclined-bed-wedge-by-the-white-willow-black-orthopedic-memory-foa-59lmqv.jpg",
+      "rating":  4
+    },
+    {
+      "id": 13,
+      "title": "Springtek",
+      "price": "₹1,226",
+      "description": "Terry (78x72) Terry Cotton Waterproof King Size Mattress Protector in Grey Colour",
+      "category": "Protectors",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/w/a/494x544/waterproof-terry-cotton-queen-size--78x60--mattress-protector-in-grey-colour-by-springtek-waterproof-ii3vnd.jpg",
+      "rating":  4
+    },
+    {
+      "id": 14,
+      "title": "Hosta Homes",
+      "price": "₹999",
+      "description": "Terry (72x36) Terry Cotton Waterproof Single Size Mattress Protector in Blue Colour",
+      "category": "Protectors",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/t/e/494x544/terry-cotton-single-72x36-water-resistant-mattress-protector-by-hosta-homes-terry-cotton-single-72x3-bw3v8p.jpg",
+      "rating":  4.5
+    }
   ]
 }
 
