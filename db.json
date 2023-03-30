@@ -26,7 +26,7 @@
     {
       "id": 1,
       "title": "Woodsworth from Pepperfry",
-      "price": "₹30,499",
+      "price": 30499,
       "description": "Alisia Fabric 2 Seater Sofa In Navy Blue Colour",
       "category": "Sofas",
       "image": "https://ii1.pepperfry.com/media/catalog/product/a/l/494x544/alisia-2-seater-sofa-in-navy-blue-colour-by-woodsworth-alisia-2-seater-sofa-in-navy-blue-colour-by-w-chfdzq.jpg",
@@ -35,7 +35,7 @@
     {
       "id": 2,
       "title": "Casacraft from Pepperfry",
-      "price": "₹69,499",
+      "price": 69499,
       "description": "Bario Leatherette 2 Seater Sofa In Cranberry Colour",
       "category": "Sofas",
       "image": "https://ii2.pepperfry.com/media/catalog/product/b/a/494x544/bario-2-seater-sofa-in-cranberry-leatherette-by-casacraft-bario-2-seater-sofa-in-cranberry-leatheret-q0lyrh.jpg",
@@ -44,7 +44,7 @@
     {
       "id": 3,
       "title": "ARRA",
-      "price": "₹22,899",
+      "price": 22899,
       "description": "Kobe Double Futon in Spruce Blue Colour with Mattress",
       "category": "Futons",
       "image": "https://ii1.pepperfry.com/media/catalog/product/k/o/494x544/kobe-double-futon-sofa-cum-bed-with-mattress-in-spruce-blue-colour-by-arra-kobe-double-futon-sofa-cu-gc7exs.jpg",
@@ -53,7 +53,7 @@
     {
       "id": 4,
       "title": "Auspicious Home",
-      "price": "₹26,658",
+      "price": 26658,
       "description": "Rille Fabric Futon in Brown Colour",
       "category": "Futons",
       "image": "https://ii1.pepperfry.com/media/catalog/product/r/i/494x544/rille-laminate--double-futon-black-with-mattress-two--pillow-chocolate-color--rille-laminate--double-uaxufa.jpg",
@@ -62,7 +62,7 @@
     {
       "id": 5,
       "title": "Sattva",
-      "price": "₹3,199",
+      "price": 3199,
       "description": "Combo Muddha Leatherette Bean Bag with Beans in Pink Piping & Black Colour with Pouffe",
       "category": "Bean Bags",
       "image": "https://ii3.pepperfry.com/media/catalog/product/m/u/494x544/muddha-xxxl-bean-bag-with-round-pouffe-by-sattva-muddha-xxxl-bean-bag-with-round-pouffe-by-sattva-y20brs.jpg",
@@ -71,7 +71,7 @@
     {
       "id": 6,
       "title": "VPlanet",
-      "price": "₹4,084",
+      "price": 4084,
       "description": "Cotton XXXL Fabric Bean Bag with Beans in Ivory & Black Colour with Pouffe",
       "category": "Bean Bags",
       "image": "https://ii1.pepperfry.com/media/catalog/product/c/o/494x544/cotton-printed-xxxl-bean-bag---round-pouffe-with-beans-in-ivory-and-black-colour-by-vplanet-cotton-p-zeketz.jpg",
@@ -80,7 +80,7 @@
     {
       "id": 7,
       "title": "Casacraft from Pepperfry",
-      "price": "₹43,499",
+      "price": 43499,
       "description": "Vintter Leatherette 1 Seater Motorized Recliner in Black & Brown Colour",
       "category": "Recliners",
       "image": "https://ii1.pepperfry.com/media/catalog/product/v/i/494x544/vintter-1-seater-leatherette-motorized-recliner-in-black---brown-colour-by-casacraft-vintter-1-seate-nqlrdl.jpg",
@@ -89,7 +89,7 @@
     {
       "id": 8,
       "title": "Recliners India",
-      "price": "₹23,450",
+      "price": 23450,
       "description": "Magna Leatherette Manual 1 Seater Recliner in Dark Brown Colour",
       "category": "Recliners",
       "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/magna-1-seater-recliner-in-dark-brown-colour-by-recliners-india-magna-1-seater-recliner-in-dark-brow-bjvapt.jpg",
@@ -98,7 +98,7 @@
     {
       "id": 9,
       "title": "Amberville from Pepperfry",
-      "price": "₹24,499",
+      "price": 24499,
       "description": "Alpana Fabric Recamier in Provincial Teak Finish",
       "category": "Settees & Benches",
       "image": "https://ii3.pepperfry.com/media/catalog/product/a/l/494x544/alpana-solid-wood-recamier-in-provincial-teak-finish---mudramark-by-pepperfry-alpana-solid-wood-reca-fczw3a.jpg",
@@ -107,7 +107,7 @@
     {
       "id": 10,
       "title": "Woodsworth from Pepperfry",
-      "price": "₹12,499",
+      "price": 12499,
       "description": "Wertle Sheesham Wood Bench In Rustic Teak Finish",
       "category": "Settees & Benches",
       "image": "https://ii3.pepperfry.com/media/catalog/product/w/e/494x544/wertle-sheesham-wood-bench-in-rustic-teak-finish-wertle-sheesham-wood-bench-in-rustic-teak-finish-ccmryq.jpg",
@@ -116,7 +116,7 @@
     {
       "id": 11,
       "title": "ARRA",
-      "price": "₹5,499",
+      "price": 5499,
       "description": "Parker Fabric Ottoman in Beige Colour",
       "category": "Ottomans",
       "image": "https://ii1.pepperfry.com/media/catalog/product/p/a/494x544/parker-fabric-ottoman-in-beige-colour-by-arra-parker-fabric-ottoman-in-beige-colour-by-arra-pkecak.jpg",
@@ -125,7 +125,7 @@
     {
       "id": 12,
       "title": "Febonic",
-      "price": "₹9,099",
+      "price": 9099,
       "description": "Mubila Fabric Ottoman in Sea Green Colour",
       "category": "Ottomans",
       "image": "https://ii3.pepperfry.com/media/catalog/product/m/u/494x544/mubila-storage-ottoman-in-green-by-febonic-mubila-storage-ottoman-in-green-by-febonic-prsbro.jpg",
@@ -134,7 +134,7 @@
     {
       "id": 13,
       "title": "Woodsworth from Pepperfry",
-      "price": "₹49,499",
+      "price": 49499,
       "description": "Zurndorf Sheesham Wood King Size Bed In Honey Oak Finish With Box Storage",
       "category": "Beds with Box Storage",
       "image": "https://ii3.pepperfry.com/media/catalog/product/z/y/494x544/zyva-king-size-bed-with-box-storage-in-honey-oak-finish-by-woodsworth-zyva-king-size-bed-with-box-st-kt16en.jpg",
@@ -143,7 +143,7 @@
     {
       "id": 14,
       "title": "Crystal Furnitech",
-      "price": "₹38,699",
+      "price": 38699,
       "description": "Quadra King Size Bed in Wenge Finish with Box Storage",
       "category": "Beds with Box Storage",
       "image": "https://ii1.pepperfry.com/media/catalog/product/k/i/494x544/king-size-top-storage-bed--in-wenge-finish-by-crystal-furnitech-king-size-top-storage-bed--in-wenge--9zhc7s.jpg",
@@ -152,7 +152,7 @@
     {
       "id": 15,
       "title": "Mintwud from Pepperfry",
-      "price": "₹13,499",
+      "price": 13499,
       "description": "Alpine Book Shelf in Walnut Finish",
       "category": "Modern Book Shelves",
       "image": "https://ii1.pepperfry.com/media/catalog/product/a/l/494x544/alpine-book-shelves-in-walnut-finish-by-mintwud-alpine-book-shelves-in-walnut-finish-by-mintwud-fch6zv.jpg",
@@ -161,7 +161,7 @@
     {
       "id": 16,
       "title": "Crystal Furnitech",
-      "price": "₹5,949",
+      "price": 5949,
       "description": "Resme Book Shelf in Brown & Black Finish",
       "category": "Modern Book Shelves",
       "image": "https://ii2.pepperfry.com/media/catalog/product/w/a/494x544/wall-attached-book-shelf-in-multicolor-by-crystal-furnitech-wall-attached-book-shelf-in-multicolor-b-ukuyct.jpg",
@@ -170,7 +170,7 @@
     {
       "id": 17,
       "title": "GLOBIA CREATIONS",
-      "price": "₹15,899",
+      "price": 15899,
       "description": "Booner TV Console for TVs in Natual Teak Finish for TVs up to 55",
       "category": "Modern TV Consoles",
       "image": "https://ii1.pepperfry.com/media/catalog/product/b/o/494x544/booner-tv-console-for-tvs-upto-55-inch-in-natual-teak-colour-by-a-globia-creations-booner-tv-console-uwb7ea.jpg",
@@ -179,7 +179,7 @@
     {
       "id": 18,
       "title": "Spacewood",
-      "price": "₹22,999",
+      "price": 22999,
       "description": "Galaxy TV Console for TVs in Walnut Bronze Melamine Finish for TVs up to 43",
       "category": "Modern TV Consoles",
       "image": "https://ii3.pepperfry.com/media/catalog/product/g/a/494x544/galaxy-tv-console-for-tvs-up-to-43--in-walnut-bronze-melamine-finish-by-spacewood-galaxy-tv-console--zeqj7g.jpg",
@@ -188,7 +188,7 @@
     {
       "id": 19,
       "title": "Durian",
-      "price": "₹1,98,400",
+      "price": 198400,
       "description": "Siberian Marble 8 Seater Dining Set in White Finish",
       "category": "Marble & Glass Top Dining Sets",
       "image": "https://ii2.pepperfry.com/media/catalog/product/s/i/494x544/siberian-marble-top-eight-seater-dining-set-by-durian-siberian-marble-top-eight-seater-dining-set-by-qhwzqn.jpg",
@@ -197,7 +197,7 @@
     {
       "id": 20,
       "title": "ESTRE",
-      "price": "₹89,990",
+      "price": 89990,
       "description": "Anemone Solid Wood 6 Seater Dining Set in Walnut Finish",
       "category": "Marble & Glass Top Dining Sets",
       "image": "https://ii1.pepperfry.com/media/catalog/product/a/n/494x544/anemone-solid-wood-6-seater-dining-set-in-walnut-finish-anemone-solid-wood-6-seater-dining-set-in-wa-jin8ow.jpg",
@@ -208,7 +208,7 @@
     {
       "id": 1,
       "title": "Springtek",
-      "price": "₹21,406",
+      "price": 21406,
       "description": "Hybrid 6 inch Pocket Spring King Size Mattress",
       "category": "King Size",
       "image": "https://ii2.pepperfry.com/media/catalog/product/h/y/494x544/hybrid-pocket-spring---natural-latex-6-inch-king-size-mattress-by-springtek-hybrid-pocket-spring---n-8ht7wl.jpg",
@@ -217,7 +217,7 @@
     {
       "id": 2,
       "title": "GetRest",
-      "price": "₹31,461",
+      "price": 31461,
       "description": "ProAdapt 8 inch with Organic Latex Patent-Pending MultiZone Support King Size Mattress",
       "category": "King Size",
       "image": "https://ii2.pepperfry.com/media/catalog/product/p/r/494x544/proadapt-8-inch-latex-king-size-mattress-by-getrest-proadapt-8-inch-latex-king-size-mattress-by-getr-jgxuk0.jpg",
@@ -226,7 +226,7 @@
     {
       "id": 3,
       "title": "Sleepyhead",
-      "price": "₹11,999",
+      "price": 11999,
       "description": "Sense BodyIQ 6 inch Memory Foam Queen Size Mattress",
       "category": "Queen Size",
       "image": "https://ii3.pepperfry.com/media/catalog/product/s/e/494x544/sense-3-zoned-orthopedic-6-inch-queen-size-cooling-foam-mattress-in-white-colour-by-sleepyhead-sense-idlvld.jpg",
@@ -235,7 +235,7 @@
     {
       "id": 4,
       "title": "Sleep Seven",
-      "price": "₹4,599",
+      "price": 4599,
       "description": "Supra Orthopedic 4 inch Foam Queen Size Mattress",
       "category": "Queen Size",
       "image": "https://ii2.pepperfry.com/media/catalog/product/s/u/494x544/supra-reversible-foam-4-inch-queen-size-mattress-by-i-sleep-seven-supra-reversible-foam-4-inch-queen-v01vdl.jpg",
@@ -244,7 +244,7 @@
     {
       "id": 5,
       "title": "Comforto",
-      "price": "₹5,099",
+      "price": 5099,
       "description": "Siesta Orthopedic 4 inch PU Foam Single Mattress",
       "category": "Single",
       "image": "https://ii3.pepperfry.com/media/catalog/product/s/i/494x544/siesta-orthopaedic-dual-pu-foam-4-inch-single-mattress-by-comforto-siesta-orthopaedic-dual-pu-foam-4-qjnogo.jpg",
@@ -253,7 +253,7 @@
     {
       "id": 6,
       "title": "Clouddio",
-      "price": "₹10,299",
+      "price": 10299,
       "description": "Nor Dual Comfort 6 inch Memory Foam Single Mattress in Grey Colour",
       "category": "Single",
       "image": "https://ii2.pepperfry.com/media/catalog/product/n/o/494x544/nor-orthopedic-6-inches-memory---hr-foam-single-size-mattress-by-clouddio-nor-orthopedic-6-inches-me-rd811g.jpg",
@@ -262,7 +262,7 @@
     {
       "id": 7,
       "title": "Springtek",
-      "price": "₹5,459",
+      "price": 5459,
       "description": "Travelite Tri-Fold 4 Inch Foam (72x48) In Grey Colour Queen Folding Mattress",
       "category": "Foldable",
       "image": "https://ii1.pepperfry.com/media/catalog/product/f/o/494x544/folding-mattress-72x48x4--inches-single-size-foam-mattress-by-springtek-folding-mattress-72x48x4--in-jjkt1k.jpg",
@@ -271,7 +271,7 @@
     {
       "id": 8,
       "title": "Fresh Up",
-      "price": "₹9,549",
+      "price": 9549,
       "description": "Ace 14 Inch Foam (78x36) In Blue Colour Single Size Sofa Cum Foldable Mattress",
       "category": "Foldable",
       "image": "https://ii1.pepperfry.com/media/catalog/product/h/d/494x544/hd-foam-3-seater-single-size-14-inch-sofa-cum-foldable-mattress-hd-foam-3-seater-single-size-14-inch-m14w80.jpg",
@@ -280,7 +280,7 @@
     {
       "id": 9,
       "title": "Sleepsia",
-      "price": "₹910",
+      "price": 910,
       "description": "Orthopedic Cool Gel Memory Foam 21 x 14 Inch Pillow",
       "category": "Pillows",
       "image": "https://ii1.pepperfry.com/media/catalog/product/o/r/494x544/orthopedic-cervical-cool-gel-infused-memory-foam-pillow--pack-of-1---by-sleepsia-orthopedic-cervical-vqpaej.jpg",
@@ -289,7 +289,7 @@
     {
       "id": 10,
       "title": "SleepyCat",
-      "price": "₹3,679",
+      "price": 3679,
       "description": "Hybrid Microfiber 30 x 18 Inch Pillows (Set of 2)",
       "category": "Pillows",
       "image": "https://ii2.pepperfry.com/media/catalog/product/h/y/494x544/hybrid-microfiber-30-x-18-inch--set-of-2--pillow-by-sleepycat-hybrid-microfiber-30-x-18-inch--set-of-edgbgp.jpg",
@@ -298,7 +298,7 @@
     {
       "id": 11,
       "title": " UrbanBed",
-      "price": "₹2,099",
+      "price": 2099,
       "description": "Hr Foam Bed Wedge (22X22) In Big Size",
       "category": "Bed Wedges",
       "image": "https://ii3.pepperfry.com/media/catalog/product/h/r/494x544/hr-foam-large-size-dual-wedge-pillow-with-removable-cover-by-urbanbed-hr-foam-large-size-dual-wedge--9awjyb.jpg",
@@ -307,7 +307,7 @@
     {
       "id": 12,
       "title": " The White Willow",
-      "price": "₹1,589",
+      "price": 1589,
       "description": "Orthopedic Foam Black Bed Wedge (17X14) In Small Size",
       "category": "Bed Wedges",
       "image": "https://ii2.pepperfry.com/media/catalog/product/b/l/494x544/black-orthopedic-memory-foam-soft-inclined-bed-wedge-by-the-white-willow-black-orthopedic-memory-foa-59lmqv.jpg",
@@ -316,7 +316,7 @@
     {
       "id": 13,
       "title": "Springtek",
-      "price": "₹1,226",
+      "price": 1226,
       "description": "Terry (78x72) Terry Cotton Waterproof King Size Mattress Protector in Grey Colour",
       "category": "Protectors",
       "image": "https://ii2.pepperfry.com/media/catalog/product/w/a/494x544/waterproof-terry-cotton-queen-size--78x60--mattress-protector-in-grey-colour-by-springtek-waterproof-ii3vnd.jpg",
@@ -325,7 +325,7 @@
     {
       "id": 14,
       "title": "Hosta Homes",
-      "price": "₹999",
+      "price": 999,
       "description": "Terry (72x36) Terry Cotton Waterproof Single Size Mattress Protector in Blue Colour",
       "category": "Protectors",
       "image": "https://ii3.pepperfry.com/media/catalog/product/t/e/494x544/terry-cotton-single-72x36-water-resistant-mattress-protector-by-hosta-homes-terry-cotton-single-72x3-bw3v8p.jpg",
@@ -336,7 +336,7 @@
     {
       "id": 1,
       "title": "Tayhaa",
-      "price": "₹5,083",
+      "price": 5083,
       "description": "Set Of 2 Blue Cylindrical Glass Vase",
       "category": "Vases",
       "image": "https://ii3.pepperfry.com/media/catalog/product/s/e/494x544/set-of-2-blue-cylindrical-glass-vase-by-tayhaa-set-of-2-blue-cylindrical-glass-vase-by-tayhaa-wwpcq2.jpg",
@@ -345,7 +345,7 @@
     {
       "id": 2,
       "title": " Purezento",
-      "price": "₹1,799",
+      "price": 1799,
       "description": "White Ceramic Vilaro Table Vases",
       "category": "Vases",
       "image": "https://ii2.pepperfry.com/media/catalog/product/w/h/494x544/white-ceramic-table-vases-by-purezento-white-ceramic-table-vases-by-purezento-bakd9v.jpg",
@@ -354,7 +354,7 @@
     {
       "id": 3,
       "title": " Art Street",
-      "price": "₹1,419",
+      "price": 1419,
       "description": "Black Solid Wood Wade Set Of 14 Collage Photo Frames",
       "category": "Photo Frames",
       "image": "https://ii1.pepperfry.com/media/catalog/product/b/l/494x544/black-synthetic-wood-beautiful-family-memories-set-of-14-individual-wall-photo-frame--66x8--64x6--28-x9gcor.jpg",
@@ -363,7 +363,7 @@
     {
       "id": 4,
       "title": "Random",
-      "price": "₹809",
+      "price": 809,
       "description": "Black Solid Wood Set Of 8 With 3 Plaque Collage Photo Frames",
       "category": "Photo Frames",
       "image": "https://ii1.pepperfry.com/media/catalog/product/b/l/494x544/black-synthetic-wood-set-of-08-photo-frames-with-3-mdf-plaque-by-random-black-synthetic-wood-set-of--zxuba5.jpg",
@@ -372,7 +372,7 @@
     {
       "id": 5,
       "title": "Shilpi",
-      "price": "₹16,857",
+      "price": 16857,
       "description": "Solid Wood Ivan Room Divider In Brown Colour",
       "category": "Screens & Dividers",
       "image": "https://ii1.pepperfry.com/media/catalog/product/s/h/494x544/shilpi-brown-wooden-partition-screen-room-divider-in-4-panel-shilpi-brown-wooden-partition-screen-ro-5bjm7s.jpg",
@@ -381,7 +381,7 @@
     {
       "id": 6,
       "title": "JILDA",
-      "price": "₹3,114",
+      "price": 3114,
       "description": "Plexi Glass Hanging Room Divider In Brown Colour",
       "category": "Screens & Dividers",
       "image": "https://ii2.pepperfry.com/media/catalog/product/j/i/494x544/jilda-brown-plexi-glass-designer-screen-dividers-jilda-brown-plexi-glass-designer-screen-dividers-npqcmr.jpg",
@@ -390,7 +390,7 @@
     {
       "id": 7,
       "title": "Malik Design",
-      "price": "₹1,129",
+      "price": 1129,
       "description": "Metal Antique Gold & Blue Table Clock",
       "category": "Table Organizers",
       "image": "https://ii1.pepperfry.com/media/catalog/product/m/e/494x544/metal-antique-gold---blue-wall-art-by-malik-design-metal-antique-gold---blue-wall-art-by-malik-desig-oropln.jpg",
@@ -399,7 +399,7 @@
     {
       "id": 8,
       "title": "Padmavati Art Creations",
-      "price": "₹1,311",
+      "price": 1311,
       "description": "Metal Multicolour Bike Pen & Card Stand",
       "category": "Table Organizers",
       "image": "https://ii3.pepperfry.com/media/catalog/product/m/e/494x544/metal-multicolour-bike-pen---card-stand-by-padmavati-art-creations-metal-multicolour-bike-pen---card-tt2y75.jpg",
@@ -408,7 +408,7 @@
     {
       "id": 9,
       "title": "Kookee",
-      "price": "₹1,295",
+      "price": 1295,
       "description": "Modern Grey Ceramic Set of 3 Bath Accessories Set",
       "category": "Home Utility",
       "image": "https://ii2.pepperfry.com/media/catalog/product/m/o/494x544/modern-grey-ceramic-set-of-3-bath-accessories-set-by-kookee-modern-grey-ceramic-set-of-3-bath-access-fiobtb.jpg",
@@ -417,7 +417,7 @@
     {
       "id": 10,
       "title": "Doyours",
-      "price": "₹2,619",
+      "price": 2619,
       "description": "Stainless Steel Silver Wall Mounted Bathroom Fixture Set of 4",
       "category": "Home Utility",
       "image": "https://ii2.pepperfry.com/media/catalog/product/d/o/494x544/doyours-glossy-stainless-steel-4-piece-bathroom-fixture-set-doyours-glossy-stainless-steel-4-piece-b-90oj7f.jpg",
@@ -426,7 +426,7 @@
     {
       "id": 11,
       "title": "The Advitya",
-      "price": "₹9,164",
+      "price": 9164,
       "description": "Brass Urli With Bells",
       "category": "Prayer Essentials",
       "image": "https://ii1.pepperfry.com/media/catalog/product/b/r/494x544/brass-urli-with-bells-by-the-advitya-brass-urli-with-bells-by-the-advitya-pqmkw8.jpg",
@@ -435,7 +435,7 @@
     {
       "id": 12,
       "title": "Craft Tree",
-      "price": "₹380",
+      "price": 380,
       "description": "Black & Orange Iron Ganesha Diya Stand",
       "category": "Prayer Essentials",
       "image": "https://ii3.pepperfry.com/media/catalog/product/m/e/494x544/metal-ganesha-diya-stand-by-craft-tree-metal-ganesha-diya-stand-by-craft-tree-0sskvx.jpg",
@@ -444,7 +444,7 @@
     {
       "id": 13,
       "title": "Hosley",
-      "price": "₹539",
+      "price": 539,
       "description": "Multi Fragranced Aroma Set of 6 Scented Candles",
       "category": "Candles",
       "image": "https://ii2.pepperfry.com/media/catalog/product/h/o/494x544/hosley-set-6-multicolor-highly-multi-fragranced-glass-candle-for-decoration--festive-hosley-set-6-mu-q6h3gr.jpg",
@@ -453,7 +453,7 @@
     {
       "id": 14,
       "title": "Xergy",
-      "price": "₹1,903",
+      "price": 1903,
       "description": "White Led Ryan (Set Of 3) Decorative Candle",
       "category": "Candles",
       "image": "https://ii3.pepperfry.com/media/catalog/product/w/h/494x544/white-led-decorative-candles--set-of-3--by-xergy-white-led-decorative-candles--set-of-3--by-xergy-xooyrw.jpg",
@@ -462,7 +462,7 @@
     {
       "id": 15,
       "title": "DZYN Furnitures",
-      "price": "₹32,990",
+      "price": 32990,
       "description": "Teak Wood Kutustha Large Mandir With Storage",
       "category": "Spiritual",
       "image": "https://ii3.pepperfry.com/media/catalog/product/t/e/494x544/teak-wood-mandir-in-golden-by-dzyn-furnitures-teak-wood-mandir-in-golden-by-dzyn-furnitures-h3z3xu.jpg",
@@ -471,7 +471,7 @@
     {
       "id": 16,
       "title": "Aapno Rajasthan",
-      "price": "₹6,264",
+      "price": 6264,
       "description": "Resting Ganesha Brass Showpiece",
       "category": "Spiritual",
       "image": "https://ii3.pepperfry.com/media/catalog/product/r/e/494x544/resting-ganesha-brass-showpiece-by-aapno-rajasthan-resting-ganesha-brass-showpiece-by-aapno-rajastha-lbjfz1.jpg",
@@ -480,7 +480,7 @@
     {
       "id": 17,
       "title": "Sehaz Artworks",
-      "price": "₹299",
+      "price": 299,
       "description": "Brown Welcome Home Wooden 7 Hooks Key Holder",
       "category": "Key Holders",
       "image": "https://ii3.pepperfry.com/media/catalog/product/b/r/494x544/brown-welcome-home-wooden-7-hooks-key-holder-by-sehaz-artworks-brown-welcome-home-wooden-7-hooks-key-1tanxz.jpg",
@@ -489,7 +489,7 @@
     {
       "id": 18,
       "title": "Aakriti art creations",
-      "price": "₹1,082",
+      "price": 1082,
       "description": "Wooden Tribal Art Leaf Key Holder",
       "category": "Key Holders",
       "image": "https://ii3.pepperfry.com/media/catalog/product/w/o/494x544/wooden-tribal-art-leaf-key-holder-by-aakriti-art-creations-wooden-tribal-art-leaf-key-holder-by-aakr-thujdy.jpg",
@@ -498,7 +498,7 @@
     {
       "id": 19,
       "title": "Flair Glass",
-      "price": "₹3,289",
+      "price": 3289,
       "description": "Round Bevelled Mirror Frameless (24Inch Dia)",
       "category": "Mirrors",
       "image": "https://ii1.pepperfry.com/media/catalog/product/r/o/494x544/round-bevelled-mirror-frameless--24inch-dia--by-flair-glass-round-bevelled-mirror-frameless--24inch--2sx4lq.jpg",
@@ -507,7 +507,7 @@
     {
       "id": 20,
       "title": "Aakriti art creations",
-      "price": "₹19,591",
+      "price": 19591,
       "description": "Walnut Teak Wood Knack Wall Mirror",
       "category": "Mirrors",
       "image": "https://ii1.pepperfry.com/media/catalog/product/t/e/494x544/teak-wood-wall-mirror-with-beautifully-carved-wall-console-in--walnut-color-by-aakriti-art-creations-akmdew.jpg",
