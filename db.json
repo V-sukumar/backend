@@ -659,6 +659,17 @@
       "image": "https://ii3.pepperfry.com/media/catalog/product/b/r/494x544/brown-abstract-coir-30x18-inches-antiskid-door-mat-by-onlymat-brown-abstract-coir-30x18-inches-antis-23rrln.jpg",
       "rating":  4.2
     }
+  ],
+  "Kitchen&Dining":[
+    {
+      "id": 1,
+      "title": "Jaipur Fabric",
+      "price": 1599,
+      "description": "Blue Traditional 300 TC Cotton Queen Sized Bed Sheets with 2 Pillow Covers",
+      "category": "Bed Sheets",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/b/l/494x544/blue-traditional-300-tc-cotton-1-double-size-bedsheet-with-2-pillow-covers--by-jaipur-fabric-blue-tr-2vtr4x.jpg",
+      "rating":  4.2
+    }
   ]
 }
 
