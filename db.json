@@ -804,6 +804,152 @@
       "image": "https://ii3.pepperfry.com/media/catalog/product/s/t/494x544/stylewood-50ml-brown-colour-sheesham-wood-spice-box-by-vareesha-stylewood-50ml-brown-colour-sheesham-7lqekq.jpg",
       "rating":  4.5
     }
+  ],
+  "Lamps&Lighting":[
+    {
+      "id": 1,
+      "title": "Skylofts",
+      "price": 275,
+      "description": "Mushroom Sensor LED Plug-in Wall Lamp",
+      "category": "Lamps",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/m/u/494x544/mushroom-led-plug-in-wall-lamp-by-skylofts-mushroom-led-plug-in-wall-lamp-by-skylofts-cpshy5.jpg",
+      "rating":  4
+    },
+    {
+      "id": 2,
+      "title": "Skylofts",
+      "price": 599,
+      "description": "Purple Star Rotating Projector Night Table Lamp",
+      "category": "Lamps",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/p/u/494x544/purple-star-rotating-projector-night-light-by-skylofts-purple-star-rotating-projector-night-light-by-kqhp0z.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 3,
+      "title": "Eliante by Jainsons Lights",
+      "price": 787,
+      "description": "Abrax Black Metal Hanging Light",
+      "category": "Ceiling Lights",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/b/l/494x544/black-metal-single-hanging-light-by-eliante-by-jainsons-lights-black-metal-single-hanging-light-by-e-tb4gf1.jpg",
+      "rating":  4
+    },
+    {
+      "id": 4,
+      "title": "DecorativeRay",
+      "price": 1382,
+      "description": "Margot Black Iron Cluster Hanging Light",
+      "category": "Ceiling Lights",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/c/l/494x544/cluster-sqaure-black-at-spl-pvc-white-glass-hanging-by-decorativeray-cluster-sqaure-black-at-spl-pvc-elpyuv.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 5,
+      "title": "Sinoman",
+      "price": 999,
+      "description": "Lolita Gold Metal Wall Sconces",
+      "category": "Wall Lights",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/g/o/494x544/gold-metal-wall-light-by-sinoman-gold-metal-wall-light-by-sinoman-xl184a.jpg",
+      "rating":  4
+    },
+    {
+      "id": 6,
+      "title": "Homesake",
+      "price": 650,
+      "description": "Mario Blue Wood Wall Sconces",
+      "category": "Wall Lights",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/b/l/494x544/blue-wood-wall-light-by-homesake-blue-wood-wall-light-by-homesake-sd6cht.jpg",
+      "rating":  4
+    },
+    {
+      "id": 7,
+      "title": "Xergy",
+      "price": 903,
+      "description": "Blender Customized Plastic & Aluminium LED Lamps",
+      "category": "LED Lights",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/x/e/494x544/xergy-sunset-lamp-sunset-projection-lamp-sunset-night-light-romantic-sunset-projection-lamp-for-fami-7ucn0v.jpg",
+      "rating":  4.2
+    },
+    {
+      "id": 8,
+      "title": "Smartway Lighting",
+      "price": 4998,
+      "description": "Sentinel Wall Lamp",
+      "category": "LED Lights",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/s/e/494x544/sentinel-wall-lamp-sentinel-wall-lamp-io3wt8.jpg",
+      "rating":  5
+    },
+    {
+      "id": 9,
+      "title": "Soulspiti",
+      "price": 2269,
+      "description": "Jayson Spider Black Wood Shade Kids Wall Light",
+      "category": "Kids Lighting",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/s/p/494x544/spider-table-lamp-by-soulspiti-spider-table-lamp-by-soulspiti-pgrqup.jpg",
+      "rating": 4.2
+    },
+    {
+      "id": 10,
+      "title": "Cot & Candy",
+      "price": 1457,
+      "description": "Novia Dog White & Red PVC Shade Kids Lamp",
+      "category": "Kids Lighting",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/p/a/494x544/paw-patrol-marshall-table-lamp-by-cot---candy-paw-patrol-marshall-table-lamp-by-cot---candy-faw1lk.jpg",
+      "rating": 4
+    },
+    {
+      "id": 11,
+      "title": "Smartway Lighting",
+      "price": 4165,
+      "description": "Double Round Ceiling Lamp",
+      "category": "Smart Lights",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/d/o/494x544/double-round-ceiling-lamp-double-round-ceiling-lamp-qckozw.jpg",
+      "rating": 4
+    },
+    {
+      "id": 12,
+      "title": "Smartway Lighting",
+      "price": 12500,
+      "description": "Pegasus Led Smart Voice Assist Wall Lamp",
+      "category": "Smart Lights",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/p/e/494x544/pegasus-black-metal-led-wall-light-by-smartway-lighting-pegasus-black-metal-led-wall-light-by-smartw-n9y8at.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": 13,
+      "title": "BrightDaisy",
+      "price": 999,
+      "description": "Novel Black Metal Gate Light",
+      "category": "Outdoor Lights",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/b/l/494x544/black-metal-gate-light-by-brightdaisy-black-metal-gate-light-by-brightdaisy-ldopac.jpg",
+      "rating": 4
+    },
+    {
+      "id": 14,
+      "title": "DecorativeRay",
+      "price": 1627,
+      "description": "Spectra White and Black Plastic Outdoor Wall Light",
+      "category": "Outdoor Lights",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/o/u/494x544/outdoor-led--wall-light-by-decorativeray-outdoor-led--wall-light-by-decorativeray-cttbrk.jpg",
+      "rating": 4.2
+    },
+    {
+      "id": 15,
+      "title": "Xergy",
+      "price": 999,
+      "description": "Hertz White and Yellow 3 Meter LED String Light",
+      "category": "Festive Lights",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/x/e/494x544/xergy-window-curtain-string-light-300-led-8-lighting-modes-fairy-lights-remote-control-usb-powered-w-wxzuuf.jpg",
+      "rating": 4
+    },
+    {
+      "id": 16,
+      "title": "Mansaa",
+      "price": 599,
+      "description": "Magalie Multicolour 2 Meter LED String Light",
+      "category": "Festive Lights",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/m/u/494x544/multicolor-2-meter-led-festive-string-light-by-mansaa-multicolor-2-meter-led-festive-string-light-by-rtnzwt.jpg",
+      "rating": 4.5
+    }
   ]
 }
 
