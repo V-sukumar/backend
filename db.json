@@ -21,6 +21,13 @@
       "isCompleted":false
     }
   ],
+  "admin":[
+    {
+      "id": 1,
+      "email":"admin@gmail.com",
+      "password":"admin"
+    }
+  ],
   "Furniture":[
     {
       "id": 1,
