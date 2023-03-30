@@ -21,8 +21,7 @@
       "isCompleted":false
     }
   ],
-  
-   "Furniture":[
+  "Furniture":[
     {
       "id": 1,
       "title": "Woodsworth from Pepperfry",
@@ -949,6 +948,152 @@
       "category": "Festive Lights",
       "image": "https://ii1.pepperfry.com/media/catalog/product/m/u/494x544/multicolor-2-meter-led-festive-string-light-by-mansaa-multicolor-2-meter-led-festive-string-light-by-rtnzwt.jpg",
       "rating": 4.5
+    }
+  ],
+  "Appliances":[
+    {
+      "id": 1,
+      "title": "Atomberg",
+      "price": 7299,
+      "description": "Atomberg MG1 Mixer Grinder with Inverter Technology & Slow Mode, 485W, 3 Jars and Chopper (Black)",
+      "category": "Mixers & Processors",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/a/t/494x544/atomberg-mg1-mixer-grinder-with-inverter-technology---slow-mode--485w--3-jars-and-chopper--black--at-hur8ag.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 2,
+      "title": "Havells",
+      "price": 5019,
+      "description": "Havells Endura Cresta 500W Juicer Mixer Grinder with 3 Jars",
+      "category": "Mixers & Processors",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/h/a/494x544/havells-endura-cresta-500w-juicer-mixer-grinder-with-3-jars-havells-endura-cresta-500w-juicer-mixer--go1v56.jpg",
+      "rating":  4
+    },
+    {
+      "id": 3,
+      "title": "Samsung",
+      "price": 24990,
+      "description": "Samsung 32 L Convection Microwave Oven (MC32K7056CC, Black)",
+      "category": "OTGs",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/s/a/494x544/samsung-32-l-convection-microwave-oven--mc32k7056cc--black--samsung-32-l-convection-microwave-oven---kelcnb.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 4,
+      "title": "Philips",
+      "price": 17162,
+      "description": "Philips HD6976/00 36 Litre Digital Oven Toaster Grill with LED Display in Grey Colour",
+      "category": "OTGs",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/p/h/494x544/philips-hd6976-00-36-litre-digital-oven-toaster-grill-with-led-display-in-grey-colour-philips-hd6976-pft9ej.jpg",
+      "rating":  4.2
+    },
+    {
+      "id": 5,
+      "title": "Hindware",
+      "price": 36880,
+      "description": "Hindware Cravia 90 1280 m /hr Island Chimney with Remote Control (Stainless Steel)",
+      "category": "Chimneys",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/h/i/494x544/hindware-cravia-90-1280-m--hr-island-chimney-with-remote-control--stainless-steel--hindware-cravia-9-dmafnr.jpg",
+      "rating":  4.2
+    },
+    {
+      "id": 6,
+      "title": "Glen",
+      "price": 14498,
+      "description": "Glen 6060 BL AC 90cm 1200 m3h Auto Clean Chimney with Motion Sensor Airflow",
+      "category": "Chimneys",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/g/l/494x544/glen-auto-clean-chimney-6060-bl-ac-90cm-with-motion-sensor-airflow-1050-m3h-glen-auto-clean-chimney--rvn31t.jpg",
+      "rating":  4
+    },
+    {
+      "id": 7,
+      "title": "Padmini",
+      "price": 11299,
+      "description": "Padmini Forged Indian Brass Burner Built in Hob CS 405 GL IB Auto Ignition (4 Burner)",
+      "category": "Cooktops",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/p/a/494x544/padmini-forged-indian-brass-burner-built-in-hob-cs-405-gl-ib-auto-ignition--4-burner--padmini-forged-5aodmb.jpg",
+      "rating":  4.2
+    },
+    {
+      "id": 8,
+      "title": " Glen",
+      "price": 44796,
+      "description": "Glen LPG Cooking Gas Range 2012 PLTR AI with 1 Triple Ring Burner & 3 Aluminium Alloy Burner",
+      "category": "Cooktops",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/g/l/494x544/glen-lpg-cooking-gas-range-2012-pltr-ai-with-1-triple-ring-burner---3-aluminium-alloy-burner-glen-lp-3g7h1g.jpg",
+      "rating":  4
+    },
+    {
+      "id": 9,
+      "title": " Atomberg",
+      "price": 5040,
+      "description": "Atomberg Renesa+ 900mm 28W BLDC 5 Star Rated High Speed Ceiling Fan with Remote(Oak Wood)",
+      "category": "Fans",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/a/t/494x544/atomberg-renesa--900mm-28w-bldc-5-star-rated-high-speed-ceiling-fan-with-remote-oak-wood--atomberg-r-fgbh16.jpg",
+      "rating":  4.2
+    },
+    {
+      "id": 10,
+      "title": " Usha",
+      "price": 1505,
+      "description": "Usha Crisp Air 200 Mm (8 Inch) Ventilation Fan (White)",
+      "category": "Fans",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/u/s/494x544/usha-crisp-air-200-mm--8-inch--ventilation-fan--white--usha-crisp-air-200-mm--8-inch--ventilation-fa-ttotmn.jpg",
+      "rating":  4
+    },
+    {
+      "id": 11,
+      "title": " Bajaj",
+      "price": 3724,
+      "description": "Bajaj Flora Instant 3 Litre Vertical Water Heater, White",
+      "category": "Heating Appliances",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/b/a/494x544/bajaj-flora-instant-3-litre-vertical-water-heater--white-bajaj-flora-instant-3-litre-vertical-water--qhh5h0.jpg",
+      "rating":  4.2
+    },
+    {
+      "id": 12,
+      "title": " Padmini",
+      "price": 1399,
+      "description": "Padmini Lava 800 Quartz Heater 800 W ISI Mark",
+      "category": "Heating Appliances",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/p/a/494x544/padmini-lava-800-quartz-heater-800-w-isi-mark-padmini-lava-800-quartz-heater-800-w-isi-mark-uw0hv9.jpg",
+      "rating":  4
+    },
+    {
+      "id": 13,
+      "title": " Groomiist",
+      "price": 4999,
+      "description": "Groomiist 20Watts Gold Series GHS-69 Magical Curl Salon Quality Automatic Hair Curler",
+      "category": "Personal Grooming",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/g/r/494x544/groomiist-20watts-gold-series-ghs-69-magical-curl-salon-quality-automatic-hair-curler-groomiist-20wa-djepwi.jpg",
+      "rating":  4
+    },
+    {
+      "id": 14,
+      "title": " Groomiist",
+      "price": 769,
+      "description": "Groomiist Copper Series Corded/Cordless Beard Trimmer CS-555 with 90 Minutes Running Time & 20 Length Settings (Blue & Black)",
+      "category": "Personal Grooming",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/g/r/494x544/groomiist-copper-series-corded-cordless-beard-trimmer-cs-555-with-90-minutes-running-time---20-lengt-igbbgn.jpg",
+      "rating":  3.5
+    },
+    {
+      "id": 15,
+      "title": " Philips",
+      "price": 1448,
+      "description": "Philips GC1015 1200 Watt Steam Iron (Green)",
+      "category": "Iron and Steamers",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/p/h/494x544/philips-gc1015-1200-watt-steam-iron--green--philips-gc1015-1200-watt-steam-iron--green--bakr8u.jpg",
+      "rating":  4
+    },
+    {
+      "id": 16,
+      "title": " Russell Hobbs",
+      "price": 10276,
+      "description": "Russell Hobbs RGS1800PRO 1800W Professional Series Garment Steamer",
+      "category": "Iron and Steamers",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/r/u/494x544/russell-hobbs-rgs1800pro-1800w-professional-series-garment-steamer-russell-hobbs-rgs1800pro-1800w-pr-kzyk7e.jpg",
+      "rating":  4.2
     }
   ]
 }
