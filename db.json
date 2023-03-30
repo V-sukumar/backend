@@ -513,6 +513,152 @@
       "image": "https://ii1.pepperfry.com/media/catalog/product/t/e/494x544/teak-wood-wall-mirror-with-beautifully-carved-wall-console-in--walnut-color-by-aakriti-art-creations-akmdew.jpg",
       "rating":  4.5
     }
+  ],
+  "Furnishings":[
+    {
+      "id": 1,
+      "title": "Jaipur Fabric",
+      "price": 1599,
+      "description": "Blue Traditional 300 TC Cotton Queen Sized Bed Sheets with 2 Pillow Covers",
+      "category": "Bed Sheets",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/b/l/494x544/blue-traditional-300-tc-cotton-1-double-size-bedsheet-with-2-pillow-covers--by-jaipur-fabric-blue-tr-2vtr4x.jpg",
+      "rating":  4.2
+    },
+    {
+      "id": 2,
+      "title": "CG HOMES",
+      "price": 483,
+      "description": "Blue Geometric 180 TC Microfiber Queen Sized Bed Sheets with 2 Pillow Covers",
+      "category": "Bed Sheets",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/b/l/494x544/blue-geometric-180-tc-microfiber-double-size-bedsheet-with-2-pillow-covers--collection-by-cg-home-bl-teoeqj.jpg",
+      "rating":  4
+    },
+    {
+      "id": 3,
+      "title": " LivPure Smart",
+      "price": 1699,
+      "description": "Grey Micro Peach 350 AC Room Single Bed Comforter",
+      "category": "Quilts & Dohars",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/m/i/494x544/microfiber-single-comforter-in-teal-and-grey-by-livpure-smart-microfiber-single-comforter-in-teal-an-paesv9.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 4,
+      "title": "Gilson",
+      "price": 2199,
+      "description": "White Microfiber 250 Mild Winter Double Bed Duvet Insert",
+      "category": "Quilts & Dohars",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/d/i/494x544/diamond-design-white-soft-fiber-90-x-100-inch-queen-duvet-by-gilson-diamond-design-white-soft-fiber--hidxn3.jpg",
+      "rating":  5
+    },
+    {
+      "id": 5,
+      "title": "Naksh",
+      "price": 499,
+      "description": "Beige Solid 450 GSM Cotton Bath Towel",
+      "category": "Bath Linen",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/b/e/494x544/beige-cotton-solid-450-gsm-bath-towel--set-of-1---by-naksh-beige-cotton-solid-450-gsm-bath-towel--se-wi8cvw.jpg",
+      "rating":  3.5
+    },
+    {
+      "id": 6,
+      "title": "Loomkart",
+      "price": 1233,
+      "description": "Grey Solid Cotton Unisex Bath Robe (XL)",
+      "category": "Bath Linen",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/g/r/494x544/grey-solid-cotton-unisex-bath-robe--xl--by-loomkart-grey-solid-cotton-unisex-bath-robe--xl--by-loomk-0xawzk.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 7,
+      "title": "My gift booth",
+      "price": 499,
+      "description": "Brown Polypropylene Foldable Set Of 4 Drawer Organisers",
+      "category": "Storage & Organizers",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/b/r/494x544/brown-polypropylene-foldable-4-pc-drawer-organiser-by-my-gift-booth-brown-polypropylene-foldable-4-p-eseuml.jpg",
+      "rating":  4
+    },
+    {
+      "id": 8,
+      "title": "STAR WORK",
+      "price": 3899,
+      "description": "Walnut Wood 1 Hook Cloth Hangers (Set Of 60)",
+      "category": "Storage & Organizers",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/w/a/494x544/walnut-wood-1-hook-cloth-hangers--set-of-60--by-star-work-walnut-wood-1-hook-cloth-hangers--set-of-6-ngqbwj.jpg",
+      "rating":  4.3
+    },
+    {
+      "id": 9,
+      "title": "IMPEXART",
+      "price": 599,
+      "description": "White Geometric Woven Cotton 16 x 16 Inches Cushion Cover",
+      "category": "Cushions & Covers",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/w/h/494x544/white-100--cotton-geometric-16-x-16-1-piece-cushion-cover-by-impexart-white-100--cotton-geometric-16-aiu6wj.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 10,
+      "title": "Sheen decor",
+      "price": 549,
+      "description": "Beige Zig Zag Cotton 70x50 Inches Sofa Throw",
+      "category": "Cushions & Covers",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/b/e/494x544/beige-cotton-50x70-inches-throw-by-sheen-decor-beige-cotton-50x70-inches-throw-by-sheen-decor-bw54vq.jpg",
+      "rating":  4
+    },
+    {
+      "id": 11,
+      "title": "The Conversion",
+      "price": 1503,
+      "description": "Cream Floral Cotton Blend 9 Ft Light Filtering Eyelet Door Curtain",
+      "category": "Curtains",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/c/r/494x544/cream--cotton-blend--floral-9-feet--light-filtering--eyelet--curtain-the-conversion-cream--cotton-bl-13akdx.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 12,
+      "title": "Skyloom",
+      "price": 564,
+      "description": "Grey Solid Jute 7 Ft Light Filtering Eyelet Door Curtain",
+      "category": "Curtains",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/g/r/494x544/grey-100--premium-jute-finish-fabric-solid-design-door-curtain-by-skyloom-grey-100--premium-jute-fin-ybenyl.jpg",
+      "rating":  3
+    },
+    {
+      "id": 13,
+      "title": "Saral Home",
+      "price": 6649,
+      "description": "Beige Geometric Cotton 5 ft x 7 ft Machine Made Carpet",
+      "category": "Carpets",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/b/e/494x544/beige-cotton-abstract-5-x-7-feet-machine-made-carpet-by-saral-home-beige-cotton-abstract-5-x-7-feet--1cfrr3.jpg",
+      "rating":  3.5
+    },
+    {
+      "id": 14,
+      "title": "Saraswati Global",
+      "price": 22714,
+      "description": "Blue Persian Wool 8 ft x 10 ft Hand Tufted Carpet",
+      "category": "Carpets",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/a/s/494x544/assorted-wool-traditional-8-ft-x-10-ft-hand-tufted-carpet-by-saraswatii-global-assorted-wool-traditi-t8efql.jpg",
+      "rating":  4.5
+    },
+    {
+      "id": 15,
+      "title": "Fabinaliv",
+      "price": 423,
+      "description": "Red Solid Polyester 23 x 18 Inches Anti Skid Door Mat",
+      "category": "Door Mats",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/r/e/494x544/red-polyester-solid-23x18-inches-anti-skid-door-mat-by-fabinaliv-red-polyester-solid-23x18-inches-an-64gksb.jpg",
+      "rating":  4
+    },
+    {
+      "id": 16,
+      "title": "Onlymat",
+      "price": 799,
+      "description": "Multicolor Abstract Coir 30 x 18 Inches Anti Skid Door Mat",
+      "category": "Door Mats",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/b/r/494x544/brown-abstract-coir-30x18-inches-antiskid-door-mat-by-onlymat-brown-abstract-coir-30x18-inches-antis-23rrln.jpg",
+      "rating":  4.2
+    }
   ]
 }
 
