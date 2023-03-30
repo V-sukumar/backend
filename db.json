@@ -663,12 +663,146 @@
   "Kitchen&Dining":[
     {
       "id": 1,
-      "title": "Jaipur Fabric",
-      "price": 1599,
-      "description": "Blue Traditional 300 TC Cotton Queen Sized Bed Sheets with 2 Pillow Covers",
-      "category": "Bed Sheets",
-      "image": "https://ii1.pepperfry.com/media/catalog/product/b/l/494x544/blue-traditional-300-tc-cotton-1-double-size-bedsheet-with-2-pillow-covers--by-jaipur-fabric-blue-tr-2vtr4x.jpg",
+      "title": "NestRoots",
+      "price": 2895,
+      "description": "Buffet White & Gold Metal Cake Stand",
+      "category": "Serveware",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/g/o/494x544/gold-tone-buffet-org-iron-appetizer-platter-by-nestroots-gold-tone-buffet-org-iron-appetizer-platter-i23x9q.jpg",
       "rating":  4.2
+    },
+    {
+      "id": 2,
+      "title": "Nestasia",
+      "price": 540,
+      "description": "Sectioned-3 Blue 7 Inch Ceramic Appetizer Platter",
+      "category": "Serveware",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/s/e/494x544/sectioned-blue-ceramic-serving-platter-by-nestasia-sectioned-blue-ceramic-serving-platter-by-nestasi-pd5au0.jpg",
+      "rating":  4
+    },
+    {
+      "id": 3,
+      "title": "Green Heirloom",
+      "price": 849,
+      "description": "Gerardo Grey Stoneware Mortar & Pestle",
+      "category": "Cookware",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/g/r/494x544/grey-stoneware-mortar-and-pestle-by-green-heirloom-grey-stoneware-mortar-and-pestle-by-green-heirloo-mghwlw.jpg",
+      "rating":  3.5
+    },
+    {
+      "id": 4,
+      "title": "Frills & Colours",
+      "price": 776,
+      "description": "Earth Handmade Orange Clay Cooking Pot with Lid",
+      "category": "Cookware",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/o/r/494x544/orange-earthenware-1-pot-with-lid-cookware-by-frills---colours-orange-earthenware-1-pot-with-lid-coo-d8ngml.jpeg",
+      "rating":  4
+    },
+    {
+      "id": 5,
+      "title": "Ritu Kumar Home",
+      "price": 6400,
+      "description": "Koshambi Pink & Beige (Set of 2) porcelain Dinner Plate",
+      "category": "Dinnerware",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/k/o/494x544/koshambi-pink---beige--set-of-2--porcelain-dinner-plate-by-ritu-kumar-home-koshambi-pink---beige--se-kih0di.jpg",
+      "rating":  3.5
+    },
+    {
+      "id": 6,
+      "title": "Jensons",
+      "price": 4655,
+      "description": "Silver Set of 91 Stainless Steel Dinner Set",
+      "category": "Dinnerware",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/s/i/494x544/silver-set-of-91-stainless-steel-dinner-set-by-jensons-silver-set-of-91-stainless-steel-dinner-set-b-0ngjfb.jpg",
+      "rating":  4
+    },
+    {
+      "id": 7,
+      "title": "Urban chef",
+      "price": 679,
+      "description": "Hancrafted Ceramic Green 100 ML Coffee Mug Set of 6",
+      "category": "Teaware",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/h/a/494x544/hancrafted-ceramic-green-100-ml-coffee-mug-set-of-6-hancrafted-ceramic-green-100-ml-coffee-mug-set-o-pcoyrq.jpg",
+      "rating":  4
+    },
+    {
+      "id": 8,
+      "title": "Lemonade",
+      "price": 500,
+      "description": "Pink Ceramic Coffee Mug",
+      "category": "Teaware",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/p/i/494x544/pink-ceramic-coffee-mug-by-lemonade-pink-ceramic-coffee-mug-by-lemonade-0kb7mq.jpg",
+      "rating":  3.5
+    },
+    {
+      "id": 9,
+      "title": "NestRoots",
+      "price": 1695,
+      "description": "Resto Gold Stainless Steel (Set of 5) Dining Cutlery Set",
+      "category": "Knives & Cutlery",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/r/e/494x544/resto--set-of-5--stainless-steel-fork-by-nestroots-resto--set-of-5--stainless-steel-fork-by-nestroot-uph9sd.jpg",
+      "rating":  4
+    },
+    {
+      "id": 10,
+      "title": "NestRoots",
+      "price": 1595,
+      "description": "Edgy White & Brown Stainless Steel (Set of 4) Knife Set",
+      "category": "Knives & Cutlery",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/e/d/494x544/edgy--set-of-4--stainless-steel-knife-set-by-nestroots-edgy--set-of-4--stainless-steel-knife-set-by--wngj6j.jpg",
+      "rating":  4.2
+    },
+    {
+      "id": 11,
+      "title": " Ceradeco",
+      "price": 929,
+      "description": "Flask 245ml (Set of 6) Cocktail Glass",
+      "category": "Drinkware",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/g/l/494x544/glass-245-ml-set-of-6-everyday-drinking-glass-by-ceradeco-glass-245-ml-set-of-6-everyday-drinking-gl-nswwye.jpg",
+      "rating":  4
+    },
+    {
+      "id": 12,
+      "title": " Bohemia crystal",
+      "price": 3999,
+      "description": "Crystal Voila 190ml (Set of 6) Champagne Glass",
+      "category": "Drinkware",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/v/i/494x544/viola-champagne-flute-drinking-glass-set--190ml-set-of-6-pcs--tranparent--non-lead-crystal-by-bohemi-r2p9gz.jpg",
+      "rating":  4.2
+    },
+    {
+      "id": 13,
+      "title": "NestRoots",
+      "price": 1795,
+      "description": "Clasic Silver Stainless Steel (Set of 2) Ice Bucket with Tong",
+      "category": "Barware",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/s/i/494x544/silver-tone-stainless-steel-ice-scoop-by-nestroots-silver-tone-stainless-steel-ice-scoop-by-nestroot-ofzidc.jpg",
+      "rating":  4
+    },
+    {
+      "id": 14,
+      "title": "Bar Box",
+      "price": 9176,
+      "description": "Bartender Pro Brown Stainless Steel (Set of 14) Bar Set",
+      "category": "Barware",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/b/a/494x544/bartender-pro--set-of-16--stainless-steel-portable-bar-set-by-bar-box-bartender-pro--set-of-16--stai-ptcf5i.jpg",
+      "rating":  4.2
+    },
+    {
+      "id": 15,
+      "title": "ExclusiveLane",
+      "price": 3199,
+      "description": "Floral-Etched (Each 40ml) Brass Spice Box with Spoon",
+      "category": "Kitchen Organizers",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/f/l/494x544/floral-etched--each-40ml--brass-spice-box-with-spoon-by-exclusivelane-floral-etched--each-40ml--bras-wbh60p.jpg",
+      "rating":  4
+    },{
+      "id": 16,
+      "title": "Vareesha",
+      "price": 2429,
+      "description": "StyleWood 50ml Brown Colour Sheesham Wood Spice Box",
+      "category": "Kitchen Organizers",
+      "image": "https://ii3.pepperfry.com/media/catalog/product/s/t/494x544/stylewood-50ml-brown-colour-sheesham-wood-spice-box-by-vareesha-stylewood-50ml-brown-colour-sheesham-7lqekq.jpg",
+      "rating":  4.5
     }
   ]
 }
