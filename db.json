@@ -2,23 +2,17 @@
   "users": [
     {
       "id": 1,
-      "title": "hello",
-      "isCompleted": false
+      "UserName":"vijay",
+      "email":"vijay@gmail.com",
+      "password":"vijay123",
+      "mobile":9568432179
     },
     {
       "id": 2,
-      "title": "hello2",
-      "isCompleted": false
-    },
-    {
-      "id":3,
-      "title":"hi",
-      "isCompleted":false
-    },
-    {
-      "id":4,
-      "title":"hi",
-      "isCompleted":false
+      "UserName":"ajith",
+      "email":"ajith@gmail.com",
+      "password":"ajith123",
+      "mobile":9988636645
     }
   ],
   "admin":[
